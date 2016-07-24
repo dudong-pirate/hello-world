@@ -1,4 +1,4 @@
-# 标题
+# hashCode 与 equals的区别与联系
 
 、、、public class Student {  
     private int age;  
